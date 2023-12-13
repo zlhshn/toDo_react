@@ -78,7 +78,7 @@ const ToDoList = () => {
       <form onSubmit={handleSubmit}>
         <input
           type="text"
-          placeholder="enter a react todo"
+          placeholder="enter a todo"
           className="input"
           onChange={handleChange}
           value={input}
