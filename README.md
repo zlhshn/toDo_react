@@ -6,7 +6,7 @@ I have made a todo app with js before. In this project, todo app made with react
 ## Project Link
 [Live](https://to-do-react-jet-zlh.vercel.app/)
 
-![todo]()
+![todo](./todo.gif)
 
 
 
