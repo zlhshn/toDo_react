@@ -21,7 +21,7 @@ Todos <br>
 
 ## Used technologies
 👉 React.js <br>
-👉 React Hooks(useEffect) <br>
+👉 React Hooks <br>
 👉 Uuid <br>
 👉 React-icons <br>
 👉 Local-storage <br>
